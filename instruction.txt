@@ -1,0 +1,8 @@
+Перед запуском введи команды:
+npm install express 
+npm install cors
+npm install sqlite3
+npm install bcrypt --save
+
+для запуска введи:
+node reflecting 
