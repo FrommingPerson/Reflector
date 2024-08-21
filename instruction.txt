@@ -4,5 +4,8 @@ npm install cors
 npm install sqlite3
 npm install bcrypt --save
 
+//    let sql = `SELECT Requests.Id id, Title title, Description description, Status status, Necessity necessity, Date date, User user, Performer performer, Photos.Photo
+ // FROM Requests INNER JOIN Photos ON Requests.Id = Photos.Request`;
+
 для запуска введи:
 node reflecting 
